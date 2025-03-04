@@ -1,6 +1,9 @@
 
 # MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs
 
+`paper` https://arxiv.org/abs/2411.02571
+
+
 NVIDIA의 `MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs` 논문의 내용 실습 코드다. 해당 논문의 핵심 기법은 다음과 같다.
 1. Modality-aware Hard Negative mining
 2. Text-to-Text fine-tuning
